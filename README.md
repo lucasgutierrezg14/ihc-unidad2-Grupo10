@@ -6,7 +6,7 @@
 
 ## Acuerdos del Equipo
 * **Herramientas de trabajo:** GitHub (respaldo y control de versiones), Figma y Google Docs / Word (informe escrito).
-* **Frecuencia de avances:** Cada integrante registrará avances en el repositorio al menos [2 veces por semana].
+* **Frecuencia de avances:** Cada integrante registrará avances en el repositorio al menos.
 * **Distribución de roles:**
   * Descubrimiento de requisitos:
   * Modelo conceptual y metáfora:
