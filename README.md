@@ -3,6 +3,7 @@
 ## Integrantes del Equipo
 * Lucas Gutierrez Galmez
 * Esteban Sandoval
+* Felipe Marin
 
 ## Acuerdos del Equipo
 * **Herramientas de trabajo:** GitHub (respaldo y control de versiones), Figma y Google Docs / Word (informe escrito).
