@@ -1,7 +1,7 @@
 # Proyecto Unidad 2 – Interacción Humano Computador (Grupo 10)
 
-**Institución:** Universidad Mayor – Escuelas de Ingeniería  
-**Asignatura:** Interacción Humano Computador (Unidad 2)  
+**Institución:** Universidad Mayor
+**Asignatura:** Interacción Humano Computador
 **Tema / Problema de interacción:** Plataforma interactiva para la consulta y reserva de salas de estudio universitarias.
 
 ---
