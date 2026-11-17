@@ -26,8 +26,6 @@ El prototipo se concentra en las tres pantallas que sostienen la tarea principal
 | Mis reservas (reserva vigente) | n/a | No (por construir) | Descrita en 6.2.1. |
 | Cuenta (perfil y notificaciones) | n/a | No (por construir) | Descrita en 6.2.1. |
 
-*[COMPLETAR: si el grupo alcanza a construir alguna de las pantallas pendientes, cambiar su fila a «Sí» y agregarla en 8.4.]*
-
 ## 8.3 Flujo navegable
 
 El recorrido que se puede probar en el prototipo es el flujo principal del apartado 6.5.1.
@@ -115,15 +113,6 @@ El prototipo se usará para comprobar el flujo del apartado 6.5.1 y los puntos q
 | Comprensión de la regla de llegada | Preguntar qué deben hacer al llegar. | Mencionan los 10 minutos |
 
 **Resultados** *(se completan después de las pruebas; las capturas y notas se guardan en `/evidencias`)*
-
-| Participante | Toques | Tiempo (s) | Errores | Observaciones |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 2 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-
-**Mejoras derivadas:** [COMPLETAR].
-
 
 ## Referencias
 
