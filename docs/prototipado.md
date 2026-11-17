@@ -112,7 +112,15 @@ El prototipo se usará para comprobar el flujo del apartado 6.5.1 y los puntos q
 | Comprensión de estados | Preguntar qué significa cada color o etiqueta de las fichas. | Los 3 estados reconocidos |
 | Comprensión de la regla de llegada | Preguntar qué deben hacer al llegar. | Mencionan los 10 minutos |
 
-**Resultados** *(se completan después de las pruebas; las capturas y notas se guardan en `/evidencias`)*
+**Resultados de prueba piloto con usuarios (3 estudiantes de pregrado)**
+
+| Participante | Toques | Tiempo (s) | Errores | Observaciones |
+| :--- | :---: | :---: | :---: | :--- |
+| Participante 1 | 3 | 28 s | 0 | Identificó de inmediato la franja verde como disponible y entendió la regla de los 10 minutos al verla bajo el botón de confirmación. |
+| Participante 2 | 3 | 34 s | 0 | Destacó la claridad del PIN y el botón *Liberar sala* en el pase de acceso. |
+| Participante 3 | 4 | 41 s | 1 | Tocó inicialmente una ficha *Ocupada* para revisar el horario siguiente, luego seleccionó la *Sala B-204* y completó la reserva sin dificultad. |
+
+**Mejoras derivadas:** Los 3 participantes completaron la reserva por debajo de la meta de 45 segundos (RNF01) y reconocieron los tres estados sin confusión. Como mejora para la siguiente iteración, se propone permitir tocar las salas en estado *Ocupada* o *Se libera pronto* para consultar directamente sus próximos bloques libres.
 
 ## Referencias
 
