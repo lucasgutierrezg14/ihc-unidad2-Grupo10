@@ -18,8 +18,8 @@ En el entorno universitario, los estudiantes requieren espacios silenciosos y eq
 ## 1.5 Lista de requisitos iniciales
 
 ### Requisitos Funcionales (RF)
-* **RF01 – Consulta en tiempo real:** El sistema debe mostrar el estado actual de las salas (Disponible, Ocupada, Próxima a liberarse) filtrado por sede/edificio y capacidad de personas.
-* **RF02 – Selección de bloque horario:** El usuario debe poder elegir fecha, hora de inicio y duración de la reserva de forma visual.
+* **RF01 – Consulta en tiempo real:** El sistema debe mostrar el estado actual de las salas (Disponible, Ocupada, Se libera pronto) filtrado por campus/edificio y capacidad de personas.
+* **RF02 – Selección de bloque horario:** El usuario debe poder elegir fecha y hora de inicio de la reserva de forma visual, sobre bloques horarios de duración fija.
 * **RF03 – Confirmación y código de acceso:** Al confirmar, el sistema debe generar un comprobante digital con número de sala, horario y código QR o PIN de validación.
 * **RF04 – Check-in y liberación anticipada:** El usuario debe poder confirmar su llegada (check-in) o liberar la sala con un toque si desocupa el espacio antes de tiempo.
 * **RF05 – Gestión de reservas activas:** El usuario debe poder visualizar, modificar o cancelar sus reservas vigentes desde una vista única.

@@ -2,7 +2,7 @@
 
 Este apartado presenta la representación de la solución seleccionada (la **PWA Mobile-First con Tablero Visual**, apartado 2) mediante un prototipo navegable construido en Figma. El prototipo permite recorrer la tarea principal definida en 1.4, *consultar la disponibilidad de una sala y reservarla*, tal como se diseñó en el flujo del apartado 6.5.1 y con el estilo visual del apartado 7.
 
-**Prototipo navegable en Figma:** [https://www.figma.com/design/Pu9Fsc8kWGA1VjNskBMF9d/IHC?node-id=0-1&t=XSpb5wLoN10sxNSU-1]
+**Prototipo navegable en Figma:** [Abrir el prototipo en Figma](https://www.figma.com/design/Pu9Fsc8kWGA1VjNskBMF9d/IHC?node-id=0-1&t=XSpb5wLoN10sxNSU-1)
 
 ## 8.1 Tipo de prototipo y herramienta
 

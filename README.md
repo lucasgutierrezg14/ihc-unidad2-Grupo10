@@ -3,6 +3,7 @@
 **Institución:** Universidad Mayor
 **Asignatura:** Interacción Humano Computador
 **Tema / Problema de interacción:** Plataforma interactiva para la consulta y reserva de salas de estudio universitarias.
+**Prototipo navegable:** [Abrir el prototipo en Figma](https://www.figma.com/design/Pu9Fsc8kWGA1VjNskBMF9d/IHC?node-id=0-1)
 
 ---
 
@@ -32,3 +33,19 @@
 * `/docs`: Borradores de cada apartado del informe técnico y documentos de trabajo.
 * `/prototipo`: Bocetos iniciales, capturas de wireframes y enlace al prototipo navegable.
 * `/evidencias`: Capturas de pantalla del proceso de diseño, reuniones y validación de avances.
+
+---
+
+## Índice de Documentos
+
+El prefijo numérico de cada archivo coincide con el número de apartado del informe.
+
+| Apartado | Documento | Responsable |
+| :---: | :--- | :--- |
+| 1 | [Descubrimiento de requisitos](docs/01_descubrimiento_requisitos.md) | Esteban Sandoval |
+| 2 | [Diseño de alternativas](docs/02_diseno_alternativas.md) | Esteban Sandoval |
+| 3, 4 y 5 | [Modelo conceptual, metáfora de interfaz y tipos de interacción](docs/03_modelo_conceptual_y_interaccion.md) | Felipe Marin |
+| 6 | [Arquitectura de información y flujo](docs/06_arquitectura_informacion_y_flujo.md) | Equipo |
+| 7 | [Diseño visual y emocional](docs/07_diseno_visual_y_emocional.md) | Lucas Gutierrez Galmez |
+| 8 | [Prototipado](docs/08_prototipado.md) | Equipo |
+| 9 | [Uso de GitHub y referencias](docs/09_uso_github_y_referencias.md) | Lucas Gutierrez Galmez |

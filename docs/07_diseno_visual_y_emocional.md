@@ -80,7 +80,7 @@ La ficha ocupada atenúa su título para que las salas disponibles destaquen pri
 
 | Pantalla | Primer nivel (lo que se ve primero) | Segundo nivel | Tercer nivel |
 | :--- | :--- | :--- | :--- |
-| **P02 Salas** | Fichas con franja de color y etiqueta de estado. | Filtros activos (sede, fecha, personas) y sello de actualización. | Equipamiento y barra de navegación. |
+| **P02 Salas** | Fichas con franja de color y etiqueta de estado. | Filtros activos (campus, fecha, personas) y sello de actualización. | Equipamiento y barra de navegación. |
 | **P03 Detalle de sala** | Línea de tiempo con el bloque seleccionado y el botón *Confirmar reserva*. | Resumen de sala y horario, y regla de llegada. | Fotos y equipamiento. |
 | **P04 Pase de acceso** | Sala y horario en el encabezado azul. | QR y PIN, junto con el plazo para confirmar llegada. | *Confirmar llegada*, *Extender 30 min* y *Liberar sala*. |
 

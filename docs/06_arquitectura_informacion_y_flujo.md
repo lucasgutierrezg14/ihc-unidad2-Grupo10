@@ -184,7 +184,7 @@ flowchart TD
 | 2 | P03 · Detalle de sala | Elige un bloque horario disponible. | Resalta el bloque y actualiza el resumen de la reserva. | RF02 |
 | 3 | P03 · Detalle de sala | Presiona "Confirmar reserva". | Crea la reserva y muestra el pase de acceso (P04) con el mensaje "Reserva confirmada". | RF03, RNF04 |
 
-Desde la lista de salas, el estudiante completa la tarea en **tres pasos, o tres toques** (tocar la ficha, elegir el bloque y confirmar), con lo cual la propuesta responde al límite establecido en RNF01. El cumplimiento del tiempo máximo de 45 segundos se verificará en la etapa de evaluación con usuarios.
+Desde la lista de salas, el estudiante completa la tarea en **tres pasos, o tres toques** (tocar la ficha, elegir el bloque y confirmar), con lo cual la propuesta responde al límite establecido en RNF01. El cumplimiento del tiempo máximo de 45 segundos se contrasta con la prueba con usuarios descrita en el apartado 8.7.
 
 Caminos alternativos considerados:
 
