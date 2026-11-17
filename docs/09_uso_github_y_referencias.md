@@ -83,8 +83,6 @@ Nielsen, J. (1994). *10 usability heuristics for user interface design*. Nielsen
 
 Norman, D. A. (2004). *Emotional design: Why we love (or hate) everyday things*. Basic Books.
 
-Preece, J., Rogers, Y. & Sharp, H. (2019). *Interaction design: Beyond human-computer interaction* (5.ª ed.). Wiley.
-
 Rogers, Y., Sharp, H. & Preece, J. (2023). *Interaction design: Beyond human-computer interaction* (6.ª ed.). Wiley.
 
 Rosenfeld, L., Morville, P. & Arango, J. (2015). *Information architecture: For the web and beyond* (4.ª ed.). O'Reilly Media.

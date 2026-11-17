@@ -8,7 +8,7 @@ Este apartado presenta la representación de la solución seleccionada (la **PWA
 
 | Aspecto | Decisión | Justificación |
 | :--- | :--- | :--- |
-| **Fidelidad** | **Media-alta.** Usa la paleta, la tipografía, los componentes y los textos definidos en el apartado 7, pero con datos simulados y sin lógica real. | El objetivo es evaluar si el estudiante entiende el tablero, distingue los estados y completa la reserva. Para eso se necesitan jerarquía, color y etiquetas reales. Un boceto de baja fidelidad no permite juzgar esas decisiones (Preece, Rogers y Sharp, 2019). |
+| **Fidelidad** | **Media-alta.** Usa la paleta, la tipografía, los componentes y los textos definidos en el apartado 7, pero con datos simulados y sin lógica real. | El objetivo es evaluar si el estudiante entiende el tablero, distingue los estados y completa la reserva. Para eso se necesitan jerarquía, color y etiquetas reales. Un boceto de baja fidelidad no permite juzgar esas decisiones (Rogers, Sharp y Preece, 2023). |
 | **Herramienta** | Figma, con Inter como tipografía. | Permite trabajar en equipo sobre un mismo archivo, reutilizar estilos y componentes, y conectar pantallas para recorrerlas como una aplicación. |
 | **Dispositivo** | Teléfono, marco de 390 × 844 px. | Coincide con la decisión *mobile-first* (RNF03) y con el contexto de uso: de pie, con una mano. |
 | **Interacción simulada** | Toques sobre elementos conectados, con transición animada de 200 ms. | Reproduce el flujo de tres pasos del apartado 6.5.1 (RNF01). |
@@ -112,16 +112,8 @@ El prototipo se usará para comprobar el flujo del apartado 6.5.1 y los puntos q
 | Comprensión de estados | Preguntar qué significa cada color o etiqueta de las fichas. | Los 3 estados reconocidos |
 | Comprensión de la regla de llegada | Preguntar qué deben hacer al llegar. | Mencionan los 10 minutos |
 
-**Resultados de prueba piloto con usuarios (3 estudiantes de pregrado)**
-
-| Participante | Toques | Tiempo (s) | Errores | Observaciones |
-| :--- | :---: | :---: | :---: | :--- |
-| Participante 1 | 3 | 28 s | 0 | Identificó de inmediato la franja verde como disponible y entendió la regla de los 10 minutos al verla bajo el botón de confirmación. |
-| Participante 2 | 3 | 34 s | 0 | Destacó la claridad del PIN y el botón *Liberar sala* en el pase de acceso. |
-| Participante 3 | 4 | 41 s | 1 | Tocó inicialmente una ficha *Ocupada* para revisar el horario siguiente, luego seleccionó la *Sala B-204* y completó la reserva sin dificultad. |
-
-**Mejoras derivadas:** Los 3 participantes completaron la reserva por debajo de la meta de 45 segundos (RNF01) y reconocieron los tres estados sin confusión. Como mejora para la siguiente iteración, se propone permitir tocar las salas en estado *Ocupada* o *Se libera pronto* para consultar directamente sus próximos bloques libres.
+**Estado de la validación:** la prueba con usuarios aún no se ha aplicado. Sus resultados, el tiempo de reserva frente a la meta de 45 segundos (RNF01), la comprensión de los estados y de la regla de llegada, se registrarán y analizarán en la etapa de evaluación, y de ellos se derivarán las mejoras para la siguiente iteración del prototipo.
 
 ## Referencias
 
-* Preece, J., Rogers, Y. y Sharp, H. (2019). *Interaction Design: Beyond Human-Computer Interaction* (5.ª ed.). Wiley.
+* Rogers, Y., Sharp, H. y Preece, J. (2023). *Interaction Design: Beyond Human-Computer Interaction* (6.ª ed.). Wiley.

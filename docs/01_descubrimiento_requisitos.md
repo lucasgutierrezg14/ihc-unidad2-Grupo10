@@ -29,3 +29,13 @@ En el entorno universitario, los estudiantes requieren espacios silenciosos y eq
 * **RNF02 – Claridad y baja carga cognitiva:** El estado de disponibilidad debe identificarse mediante códigos de color accesibles (contraste alto + etiquetas de texto) sin depender solo del color.
 * **RNF03 – Diseño adaptable (Mobile-First):** La interfaz debe optimizarse para uso con una mano en pantallas móviles, con botones táctiles amplios y jerarquía visual clara.
 * **RNF04 – Retroalimentación inmediata:** Cada acción (filtrar, reservar, cancelar) debe entregar confirmación visual instantánea y opción de deshacer en caso de error.
+
+## 1.6 Origen de los requisitos y alcance
+
+Siguiendo la actividad de descubrir requisitos (Rogers et al., 2023), la lista anterior se construyó a partir de tres fuentes: el análisis del problema descrito en 1.1, la experiencia de uso de los propios integrantes, que son estudiantes de pregrado y por tanto parte del perfil del usuario principal, y el contexto de uso descrito en 1.3. El equipo no cuenta con registros formales de entrevistas, encuestas u observación con otros usuarios, por lo que estos requisitos se consideran **iniciales** y se contrastarán con usuarios reales en la evaluación (apartado 8.7).
+
+La lista prioriza al usuario principal. Las necesidades del usuario secundario (validar reservas y ver la ocupación de los espacios) quedan fuera del alcance de esta iteración y no están cubiertas en el prototipo.
+
+## Referencias
+
+* Rogers, Y., Sharp, H. y Preece, J. (2023). *Interaction Design: Beyond Human-Computer Interaction* (6.ª ed.). Wiley.

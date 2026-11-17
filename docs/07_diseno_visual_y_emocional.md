@@ -8,7 +8,7 @@ La evidencia visual de este apartado es el **tablero de estilo** (`img/1_tablero
 
 ## 7.1 Objetivos emocionales
 
-El contexto de uso (1.3) es de prisa, ruido y coordinación con compañeros. Por eso el equipo definió qué debe **sentir** el usuario, pues la emoción influye en cómo se percibe la usabilidad (Preece, Rogers y Sharp, 2019). Se organizó según los tres niveles del diseño emocional de Norman (2004).
+El contexto de uso (1.3) es de prisa, ruido y coordinación con compañeros. Por eso el equipo definió qué debe **sentir** el usuario, pues la emoción influye en cómo se percibe la usabilidad (Rogers, Sharp y Preece, 2023). Se organizó según los tres niveles del diseño emocional de Norman (2004).
 
 | Nivel | Qué debe sentir el estudiante | Decisión de diseño |
 | :--- | :--- | :--- |
@@ -139,7 +139,7 @@ Cada acción recibe una respuesta inmediata, como exige la heurística de visibi
 
 ## Referencias
 
-* Norman, D. A. (2004). *Emotional Design: Why We Love (or Hate) Everyday Things*. Basic Books.
 * Nielsen, J. (1994). *10 Usability Heuristics for User Interface Design*. Nielsen Norman Group.
-* Preece, J., Rogers, Y. y Sharp, H. (2019). *Interaction Design: Beyond Human-Computer Interaction* (5.ª ed.). Wiley.
+* Norman, D. A. (2004). *Emotional Design: Why We Love (or Hate) Everyday Things*. Basic Books.
+* Rogers, Y., Sharp, H. y Preece, J. (2023). *Interaction Design: Beyond Human-Computer Interaction* (6.ª ed.). Wiley.
 * W3C. (2023). *Web Content Accessibility Guidelines (WCAG) 2.2*. World Wide Web Consortium.
