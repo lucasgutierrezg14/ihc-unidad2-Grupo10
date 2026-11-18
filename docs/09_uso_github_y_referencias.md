@@ -10,7 +10,7 @@ El repositorio es público y utiliza una única rama principal (`main`). Se usa 
 | :--- | :--- |
 | `README.md` | Datos del grupo, acuerdos del equipo, roles y estructura del repositorio. |
 | `docs/` | Documentos de cada apartado del informe técnico. |
-| `prototipo/` | Imagen del flujo de pantallas del prototipo. El prototipo navegable está en Figma. |
+| `prototipo/` | Capturas de las pantallas del prototipo (P02, P03 y P04), vista general del flujo y tablero de estilo. El prototipo navegable está en Figma. |
 | `evidencias/` | Capturas del historial de commits como evidencia del proceso. |
 
 ## 9.2 Acuerdos del equipo
@@ -55,7 +55,7 @@ Resumen de los *commits* realizados hasta el 17 de noviembre de 2026:
 | 13 de noviembre | 5 | Creación del repositorio y del README con los datos del grupo, los acuerdos del equipo, los roles y la estructura de carpetas. |
 | 14 de noviembre | 12 | Ajustes del README y de la estructura de carpetas; documentos de los apartados 1 y 2. |
 | 15 de noviembre | 3 | Documento de los apartados 3, 4 y 5 y ajuste del README. |
-| 17 de noviembre | 10 | Documentos de los apartados 6, 7 y 8; reorganización de las carpetas `prototipo/` y `evidencias/`; imagen del prototipo y capturas del historial. |
+| 17 de noviembre | 18 | Documentos de los apartados 6, 7 y 8; reorganización de las carpetas `prototipo/` y `evidencias/`; correcciones de los apartados 1 a 9; índice de documentos y enlace de Figma en el README; capturas del prototipo, del tablero de estilo y del historial. |
 
 Hasta el 16 de noviembre, los cambios se subieron desde la cuenta del integrante encargado del repositorio (Lucas Gutierrez Galmez), a partir de los borradores que los demás integrantes le enviaban. Desde el 17 de noviembre, los integrantes con acceso al repositorio registran sus cambios desde su propia cuenta. El historial completo y actualizado se puede consultar en [https://github.com/lucasgutierrezg14/ihc-unidad2-Grupo10/commits/main](https://github.com/lucasgutierrezg14/ihc-unidad2-Grupo10/commits/main).
 
