@@ -45,13 +45,13 @@ flowchart LR
 
 ## 8.4 Pantallas del prototipo
 
-![alt text](img2_protoripo.png)
+![Flujo de pantallas del prototipo: P02 Salas, P03 Detalle de sala y P04 Pase de acceso](../prototipo/prototipo_vista_general.png)
 
 *Figura 1. Flujo de pantallas del prototipo: P02 Salas, P03 Detalle de sala y P04 Pase de acceso.*
 
 ### P02 · Salas
 
-![alt text](img3_p02_salas.png)
+![Pantalla P02 Salas: filtros, indicador de actualización y fichas de sala con su estado](../prototipo/p02_salas.png)
 
 * **Qué resuelve:** responde a la pregunta «¿qué sala puedo usar ahora?» (RF01) con la lista de salas y su estado actual.
 * **Elementos clave:** filtros visibles (campus, fecha y personas); indicador de actualización de datos; fichas con franja de color, ícono y texto de estado (*Disponible*, *Se libera pronto*, *Ocupada*); barra de navegación inferior con *Salas*, *Mis reservas* y *Cuenta*.
@@ -59,7 +59,7 @@ flowchart LR
 
 ### P03 · Detalle de sala
 
-![alt text](img4_p03_detalle_sala.png)
+![Pantalla P03 Detalle de sala: bloques horarios y botón Confirmar reserva](../prototipo/p03_detalle_sala.png)
 
 * **Qué resuelve:** permite elegir el bloque horario y confirmar sin cambiar de pantalla (RF02, RNF01).
 * **Elementos clave:** botón de retorno «‹ Salas»; bloques horarios con el bloque seleccionado en color de acción y el bloque ocupado distinguible; resumen de la reserva con el botón *Confirmar reserva*; regla de llegada visible antes de reservar.
@@ -67,7 +67,7 @@ flowchart LR
 
 ### P04 · Pase de acceso
 
-![alt text](img5_p04_acceso.png)
+![Pantalla P04 Pase de acceso: QR, PIN y acciones de la reserva](../prototipo/p04_pase_acceso.png)
 
 * **Qué resuelve:** entrega el comprobante de la reserva y concentra las acciones durante el uso (RF03, RF04), como se definió en 6.2.1.
 * **Elementos clave:** encabezado azul con sala y horario; QR y PIN de 4 dígitos; plazo para confirmar llegada; acciones *Confirmar llegada*, *Extender 30 min*, *Liberar sala*, *Reportar un problema* y *Cancelar reserva*; mensaje «Reserva confirmada» con *Deshacer*.

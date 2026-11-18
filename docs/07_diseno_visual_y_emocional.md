@@ -2,9 +2,11 @@
 
 Este apartado justifica las decisiones visuales y emocionales de la **PWA Mobile-First con Tablero Visual** para las pantallas definidas en el apartado 6. El criterio central es que, en una hora punta y con una mano, el estudiante entienda en segundos qué sala puede usar, sienta que la reserva está asegurada y mantenga el control en todo momento.
 
-La evidencia visual de este apartado es el **tablero de estilo** (`img/1_tablero_de_estilo.png`). Allí aparecen la paleta, la tipografía, los estados de la sala y los componentes de las pantallas P02 (Salas), P03 (Detalle de sala) y P04 (Pase de acceso). El prototipo navegable del apartado 8 los aplica a las pantallas completas.
+La evidencia visual de este apartado es el **tablero de estilo** (`prototipo/tablero_de_estilo.png`). Allí aparecen la paleta, la tipografía, los estados de la sala y los componentes de las pantallas P02 (Salas), P03 (Detalle de sala) y P04 (Pase de acceso). El prototipo navegable del apartado 8 los aplica a las pantallas completas.
 
-![alt text](img1_tablero_de_estilo-1.png)
+![Tablero de estilo: paleta de color, tipografía Inter, estados de la sala y pantallas P02, P03 y P04](../prototipo/tablero_de_estilo.png)
+
+*Tablero de estilo del prototipo: paleta, tipografía, estados de la sala y pantallas clave.*
 
 ## 7.1 Objetivos emocionales
 
